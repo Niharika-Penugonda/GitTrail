@@ -1,2 +1,2 @@
 # GitTrail
-This is a git trail 
+This is a git trail.
